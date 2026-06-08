@@ -1,0 +1,6 @@
+{
+    "elements": {
+        "onclick=\"window.location.href='login.html'\"": {}
+    },
+    "attributes": {}
+}
